@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzaisimao)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-main-muzaisimao.vercel.app/api?username=muzaisimao&&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-muzaisimao.vercel.app/api/top-langs/?username=muzaisimao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **muzaisimao/muzaisimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
