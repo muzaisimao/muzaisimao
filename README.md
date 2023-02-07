@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋🏻 I'm Simao !  <img src="./images/cat.gif" alt="Meaow" width="50" />
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-main-muzaisimao.vercel.app/api?username=muzaisimao&&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-main-muzaisimao.vercel.app/api/top-langs/?username=muzaisimao&layout=compact&card_width=310)](https://github.com/anuraghazra/github-readme-stats)
